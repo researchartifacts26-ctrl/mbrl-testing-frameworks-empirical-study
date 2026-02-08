@@ -90,13 +90,19 @@ This ensures the notebook remains fully executable even without the large binary
 ---
 ## Expected Outputs
 After executing a notebook, the following artifacts are generated under:
+
 *tables/*
+
 - Single-row metric summaries per testing framework
+- 
 *figs/*
+
 - Failure Rate bar plots
 - Cumulative Failures vs Tests
 - Cumulative Failures vs Time
+- 
 *raw_single/*
+
 - Per-episode failure logs
 ---
 ## Anonymity Statement
