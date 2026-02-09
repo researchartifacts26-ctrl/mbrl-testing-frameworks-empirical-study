@@ -83,6 +83,7 @@ To run the Crafter experiment with the real DreamerV3 agent:
 1. Download `agent.pkl` from Zenodo
 2. Place it under: agents/dreamerv3/crafter/
 3. In `N06_DreamerV3_Crafter.ipynb`, set:
+
     ```python
     USE_REAL_DREAMER = True
     ```
@@ -99,7 +100,7 @@ After executing a notebook, the following artifacts are generated under:
 *tables/*
 
 - Single-row metric summaries per testing framework
-- 
+  
 *figs/*
 
 - Failure Rate bar plots
