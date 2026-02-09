@@ -33,7 +33,7 @@ The artifact consists of **seven executable Jupyter notebooks**, each correspond
 Each notebook:
 - loads a fixed, pre-trained agent
 - executes 18 RL testing frameworks
-- computes standardized metrics (FR, TTF, APFD, APFD-time)
+- computes metrics (FR, TTF, APFD, APFD-time)
 - generates tables and plots
 
 ---
@@ -45,7 +45,7 @@ mbrl-testing-frameworks-empirical-study/
 ├── results/          # Generated results (tables, plots, raw logs)
 ├── data/             # Test pools (e.g., Connect4)
 ├── envs/             # Custom environments (e.g., Connect4)
-├── metrics/          # Metric utilities (also defined inside notebooks)
+
 The results/ directory is populated automatically when notebooks are executed.
 ```
 
