@@ -77,7 +77,9 @@ Requirements: Python ≥ 3.9, Jupyter Notebook or JupyterLab
 ## Large Model Files (DreamerV3)
 
 The DreamerV3 checkpoint (`agent.pkl`) is not included in this repository due to file size constraints.
+
 It is publicly available via Zenodo: 🔗 [DreamerV3 agent checkpoint (Zenodo)](https://zenodo.org/records/18528220)
+
 ### Using the Real DreamerV3 Policy
 To run the Crafter experiment with the real DreamerV3 agent:
 1. Download `agent.pkl` from Zenodo
