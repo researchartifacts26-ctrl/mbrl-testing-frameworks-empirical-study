@@ -47,7 +47,7 @@ mbrl-testing-frameworks-empirical-study/
 ├── envs/             # Custom environments (e.g., Connect4)
 ├── metrics/          # Metric utilities (also defined inside notebooks)
 The results/ directory is populated automatically when notebooks are executed.
-```markdown
+```
 
 ## Running the Artifact
 
@@ -62,17 +62,18 @@ Steps:
 5. Run all cells sequentially (or use "run all")
 
 All required output folders are created automatically during execution.
+
 ---
 ### Local Execution
 Each notebook also includes a local path configuration cell, for example:
 ```python
 AGENT_ROOT  = Path("mbrl-testing-frameworks-empirical-study/agents/muzero/cartpole")
 RESULTS_DIR = Path("mbrl-testing-frameworks-empirical-study/results/cartpole")
-
+```
 Requirements: Python ≥ 3.9, Jupyter Notebook or JupyterLab
 
 ---
-```markdown
+
 ## Large Model Files (DreamerV3)
 
 The DreamerV3 checkpoint (`agent.pkl`) is not included in this repository due to file size constraints.
@@ -84,7 +85,7 @@ To run the Crafter experiment with the real DreamerV3 agent:
 3. In `N06_DreamerV3_Crafter.ipynb`, set:
     ```python
     USE_REAL_DREAMER = True
-    ```markdown
+    ```
    
 ### Default Behavior
 By default, the notebook runs with a competent fallback policy that preserves: action distribution characteristics, interaction frequency, oracle semantics
@@ -104,7 +105,7 @@ After executing a notebook, the following artifacts are generated under:
 - Failure Rate bar plots
 - Cumulative Failures vs Tests
 - Cumulative Failures vs Time
-- 
+  
 *raw_single/*
 
 - Per-episode failure logs
