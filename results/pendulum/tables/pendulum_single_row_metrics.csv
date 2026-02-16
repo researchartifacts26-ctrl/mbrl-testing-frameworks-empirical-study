@@ -1,0 +1,3 @@
+framework,FR,TTF_tests,TTF_seconds,total_seconds,budget,raw_path
+FS,0.28,8.0,64.42913603782654,3987.510190010071,500,/content/drive/MyDrive/mbrl-testing-frameworks-empirical-study/results/pendulum/raw_single/FS_episodes.csv
+μPRL,0.242,1.0,7.946732044219971,3998.8044259548187,500,/content/drive/MyDrive/mbrl-testing-frameworks-empirical-study/results/pendulum/raw_single/μPRL_episodes.csv

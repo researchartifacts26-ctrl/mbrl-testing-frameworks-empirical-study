@@ -1,0 +1,25 @@
+{
+  "name": "PETS_Pendulum_base",
+  "env_id": "Pendulum-v1",
+  "obs_dim": 3,
+  "act_dim": 1,
+  "action_low": -2.0,
+  "action_high": 2.0,
+  "pets_cfg": {
+    "ensemble_size": 5,
+    "hidden_dim": 128,
+    "horizon": 20,
+    "pop_size": 400,
+    "elite_frac": 0.2,
+    "num_iters": 4,
+    "action_low": -2.0,
+    "action_high": 2.0,
+    "init_std": 1.0
+  },
+  "training": {
+    "warmup_episodes": 5,
+    "episode_len": 200,
+    "total_episodes": 20,
+    "train_batches_per_ep": 50
+  }
+}

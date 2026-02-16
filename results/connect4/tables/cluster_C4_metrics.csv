@@ -1,0 +1,4 @@
+framework,profile,FR,TTF,APFD,APFD_time,MS,extra
+μPRL,mutants_interleaved_1500,0.43434343434343436,2.0,0.4295278365045807,18.46969696969697,,"{""TTF_tests"": 2.0, ""TTF_seconds"": 26.312329908998436, ""total_seconds"": 26.32248935499956}"
+FS,spec,0.4,3.0,0.54825,21.93,,"{""TTF_tests"": 3.0, ""TTF_seconds"": 2.369466721000208, ""total_seconds"": 24.692072486999677}"
+RLMutation,mutants_interleaved_1500,0.37,5.0,0.5374324324324324,19.885,,"{""TTF_tests"": 5.0, ""TTF_seconds"": 59.377026738000495, ""total_seconds"": 59.37709558700044}"

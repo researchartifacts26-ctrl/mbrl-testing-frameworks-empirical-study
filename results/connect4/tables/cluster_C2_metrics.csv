@@ -1,0 +1,5 @@
+framework,profile,FR,TTF,APFD,APFD_time,MS,extra
+QD-Testing,CLEAN,0.08,1.0,0.60109375,9.6175,,"{""TTF_tests"": 1.0, ""TTF_seconds"": 0.43615127799967013, ""total_seconds"": 51.962226913999984}"
+STARLA,CLEAN,0.35,1.0,0.5408571428571428,18.93,,"{""TTF_tests"": 1.0, ""TTF_seconds"": 27.04095456000141, ""total_seconds"": 32.50468457399984}"
+AlphaTest,CLEAN,0.35,1.0,0.5188571428571429,18.16,,"{""TTF_tests"": 1.0, ""TTF_seconds"": 0.33426429300016025, ""total_seconds"": 18.30230370800018}"
+Indago,CLEAN,1.0,1.0,0.49995,49.995,,"{""TTF_tests"": 1.0, ""TTF_seconds"": 0.0037237440010358114, ""total_seconds"": 2.3874749059996248}"

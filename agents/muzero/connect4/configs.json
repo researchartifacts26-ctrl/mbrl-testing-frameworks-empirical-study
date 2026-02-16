@@ -1,0 +1,6 @@
+{
+  "env": "Connect4",
+  "horizon": 84,
+  "seed": 42,
+  "budget_tests_default": 100
+}

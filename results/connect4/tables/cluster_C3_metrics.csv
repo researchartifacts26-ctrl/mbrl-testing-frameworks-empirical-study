@@ -1,0 +1,7 @@
+framework,profile,FR,TTF,APFD,APFD_time,MS,extra
+CureFuzz,CLEAN,0.39,1.0,0.5620512820512821,21.92,,"{""TTF_tests"": 1.0, ""TTF_seconds"": 0.0052453660009632586, ""total_seconds"": 18.249079387000165}"
+GMBT,CLEAN,0.6,1.0,0.46958333333333335,28.175,,"{""TTF_tests"": 1.0, ""TTF_seconds"": 0.01520449099916732, ""total_seconds"": 22.31110544599869}"
+pi-Fuzz,CLEAN,0.06,5.0,0.5044444444444445,9.08,,"{""TTF_tests"": 5.0, ""TTF_seconds"": 2.1762809320007364, ""total_seconds"": 136.92791313999987}"
+MDPFuzz,CLEAN,0.36,2.0,0.5291666666666667,19.05,,"{""TTF_tests"": 2.0, ""TTF_seconds"": 0.7191084360001696, ""total_seconds"": 37.626570637999976}"
+SBF,CLEAN,0.45,2.0,0.4767777777777778,21.455,,"{""TTF_tests"": 2.0, ""TTF_seconds"": 1.3584968359991763, ""total_seconds"": 23.008063503999438}"
+NR-RL,repr,0.09,15.0,0.5083333333333333,4.575,,"{""TTF_tests"": 15.0, ""TTF_seconds"": 1.6210915880001266, ""total_seconds"": 15.212418844999775}"

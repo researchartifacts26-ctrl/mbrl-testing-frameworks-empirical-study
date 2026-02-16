@@ -1,0 +1,14 @@
+{
+  "variant": "PETS_Pendulum_base",
+  "seed": 0,
+  "paths": {
+    "bundle_dir": "/content/drive/MyDrive/MBRL_Benchmarking/PETS_Pendulum/pets_pendulum_base",
+    "checkpoint_dir": "/content/drive/MyDrive/MBRL_Benchmarking/PETS_Pendulum/pets_pendulum_base/checkpoint",
+    "logs_dir": "/content/drive/MyDrive/MBRL_Benchmarking/PETS_Pendulum/pets_pendulum_base/logs",
+    "trajectories_dir": "/content/drive/MyDrive/MBRL_Benchmarking/PETS_Pendulum/pets_pendulum_base/trajectories",
+    "env_spec": "/content/drive/MyDrive/MBRL_Benchmarking/PETS_Pendulum/pets_pendulum_base/env_spec.json",
+    "config": "/content/drive/MyDrive/MBRL_Benchmarking/PETS_Pendulum/pets_pendulum_base/config.json",
+    "metrics_jsonl": "/content/drive/MyDrive/MBRL_Benchmarking/PETS_Pendulum/pets_pendulum_base/logs/metrics.jsonl"
+  },
+  "notes": "PETS-style ensemble dynamics + CEM MPC agent for Pendulum-v1 (model-based RL)."
+}

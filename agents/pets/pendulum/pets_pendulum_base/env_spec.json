@@ -1,0 +1,15 @@
+{
+  "env_id": "Pendulum-v1",
+  "obs_type": "vector",
+  "obs_space": [
+    3
+  ],
+  "action_space": {
+    "type": "continuous",
+    "shape": [
+      1
+    ],
+    "low": -2.0,
+    "high": 2.0
+  }
+}

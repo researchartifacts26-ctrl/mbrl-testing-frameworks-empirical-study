@@ -1,0 +1,9 @@
+framework,profile,FR,APFD,APFD_time,TTF,TTF_tests,TTF_seconds,total_seconds,coverage,diversity,extra
+AdaStop,CLEAN,0.0,,,,,,,0,0,
+F-Oracle,CLEAN,1.0,0.49999977777777777,746.8861549388666,1.0,,,,1,1,
+CUSUM-RL,CLEAN,0.0,,,,,,,0,0,
+DLBT,CLEAN,0.0,,,,,,,0,0,
+AdaStop,CLEAN,0.0,,,,,,,0,0,
+F-Oracle,CLEAN,1.0,0.49999977777777777,748.5790064838924,1.0,,,,1,1,
+CUSUM-RL,CLEAN,0.0,,,,,,,0,0,
+DLBT,CLEAN,0.0,,,,,,,0,0,

@@ -1,0 +1,15 @@
+{
+  "mcts": {
+    "sims_per_move": 50,
+    "c_puct": 1.25,
+    "discount": 1.0,
+    "temperature": 0.0,
+    "root_noise": false
+  },
+  "action_space": 7,
+  "obs_shape": [
+    3,
+    6,
+    7
+  ]
+}

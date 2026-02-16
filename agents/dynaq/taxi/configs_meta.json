@@ -1,0 +1,7 @@
+{
+  "algorithm": "Dyna-Q",
+  "environment": "Taxi-v3",
+  "training_episodes": 8000,
+  "gamma": 0.99,
+  "alpha": 0.1
+}

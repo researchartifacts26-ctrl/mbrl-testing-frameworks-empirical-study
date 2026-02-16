@@ -1,0 +1,11 @@
+{
+  "channels": 96,
+  "blocks": 3,
+  "game": "connect4",
+  "obs_shape": [
+    3,
+    6,
+    7
+  ],
+  "action_space": 7
+}

@@ -1,0 +1,8 @@
+{
+  "episodes": 8000,
+  "alpha": 0.1,
+  "gamma": 0.99,
+  "epsilon_end": 0.01,
+  "plan_steps": 20,
+  "mean_train_return_last_100": 7.01
+}

@@ -1,0 +1,6 @@
+{
+  "env": "Taxi-v3",
+  "horizon": 200,
+  "seed": 42,
+  "budget_tests_default": 2
+}
